@@ -1,6 +1,6 @@
 1169765
 
-# Panino Vegetariano
+# Panino Vegetariano (6€)
 
 ## Ingredienti
 
