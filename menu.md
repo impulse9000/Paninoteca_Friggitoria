@@ -1,8 +1,9 @@
 1169765
 
+##Panini
 
-[primavera.md](primavera.md)
+[primavera.md](panini/primavera.md)
 
-[vegetariano.md](vegetariano.md)
+[vegetariano.md](panini/vegetariano.md)
 
 Paninoteca Padovana
