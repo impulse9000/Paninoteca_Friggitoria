@@ -1,6 +1,6 @@
 1169765
 
-# Panino Primavera
+# Panino Primavera (4€)
 
 ## Ingredienti
 
